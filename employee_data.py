@@ -20,7 +20,7 @@ for i in range(1, 101):
 # ➕ Add a new employee
 employees.append({
     "employee_id": "E101",
-    "name": "Hamza",
+    "name": "Ahmed",
     "company_id": "C002",
     "skills": ["Python", "SQL", "CSS"]
 })
